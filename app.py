@@ -31,7 +31,7 @@ def train_and_predict(features, target, future_date):
 
 # Streamlit app
 def main():
-    st.title('DeccanowIOT Grid: Forecasting Energy Demand with IoT Data')
+    st.title('IOT Grid: Forecasting Energy Demand with IoT Data')
 
     # Date input box
     st.subheader('Select Future Date')
