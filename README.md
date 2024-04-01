@@ -26,8 +26,9 @@ Data preprocessing: Clean and preprocess the dataset, selecting suitable feature
 Model selection: Choose appropriate machine learning algorithms such as regression, neural networks, or time series models.
 Feature engineering: Enhance prediction accuracy by incorporating advanced techniques like feature engineering and integration with weather data.
 Streamlit Web Application
-**IOT Grid features a user-friendly web application interface powered by Streamlit for interactive energy demand prediction. Follow these steps to launch the application:
-**
+
+IOT Grid features a user-friendly web application interface powered by Streamlit for interactive energy demand prediction. Follow these steps to launch the application:
+
 Open a terminal and navigate to the project directory.
 Execute the following command:
 bash
